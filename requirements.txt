@@ -2,11 +2,8 @@
 # It lists the necessary Python packages for the project.
 
 # For file operations
-io
 os
 
 # For time-related functions
 time
 
-# For system-specific functions
-sys
