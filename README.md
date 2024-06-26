@@ -115,7 +115,7 @@ Installation
 
 Usage
 
-Credits
+Credits: https://github.com/Ayanda247
 
 Installation
 
@@ -153,7 +153,7 @@ Web Scraping Tool
 
 Description
 
-The Web Scraping Tool is a robust solution for scraping data from websites (e.g., product prices, weather information), saving data to a file or database, and scheduling scraping tasks. It highlights skills in BeautifulSoup/Scrapy, requests, and scheduling with cron jobs.
+The Web Scraping Tool is a robust solution for scraping data from websites (e.g., product prices, and weather information), saving data to a file or database, and scheduling scraping tasks. It highlights skills in BeautifulSoup/Scrapy, requests, and scheduling with cron jobs.
 
 Table of Contents
 
@@ -163,7 +163,7 @@ Installation
 
 Usage
 
-Credits
+Credits: https://github.com/Ayanda247
 
 Installation
 
