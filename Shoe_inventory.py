@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 # Import Modules.
-from io import FileIO
 import os
 import time
-import sys
+# remove redundant imports like 'import sys' & 'from io import FileIO'
 
 # Dictionary of Continents
 continents = {
@@ -56,7 +55,8 @@ continents = {
         "Bulgaria",
         "Croatia",
         "Cyprus",
-        "Czech Republic",
+        # Change "Czech Republic" to "Czechia".
+        "Czechia",
         "Denmark",
         "Estonia",
         "Finland",
@@ -138,7 +138,8 @@ continents = {
         "Taiwan",
         "Tajikistan",
         "Thailand",
-        "Turkey",
+        # Change "Turkey" to "Türkiye".
+        "Türkiye",
         "Turkmenistan",
         "United Arab Emirates",
         "Uzbekistan",
@@ -206,7 +207,8 @@ continents = {
         "Fiji",
         "Kiribati",
         "Marshall Islands",
-        "Micronesia",
+        # Change "Micronesia" to "Federated States of Micronesia".
+        "Federated States of Micronesia",
         "Nauru",
         "New Caledonia",
         "New Zealand",
