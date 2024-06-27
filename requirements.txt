@@ -1,9 +1,3 @@
-# This is a requirements.txt file for the Shoe Inventory Project.
-# It lists the necessary Python packages for the project.
+# No additional Python packages required
 
-# For file operations
-os
-
-# For time-related functions
-time
 
