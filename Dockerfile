@@ -11,5 +11,5 @@ COPY . /app
 EXPOSE 80
 
 # Run your_script.py when the container launches
-CMD ["python", "your_script.py"]
+CMD ["python", "Shoe_inventory.py"]
 
