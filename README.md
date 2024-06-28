@@ -6,7 +6,7 @@ Shoe Inventory System
 
 Description
 
-The Shoe Inventory System is a comprehensive solution for managing shoe inventory efficiently. This project leverages object-oriented programming principles to add, update, delete, and view shoes in inventory, with search functionality and categorization by brand, size, and more. It's perfect for demonstrating OOP, file handling, and simple GUI development using Tkinter or Flask.
+The Shoe Inventory System is a comprehensive solution for managing shoe inventory efficiently. This project leverages object-oriented programming principles to add, update, delete, and view shoes in inventory, with search functionality and categorization by brand, size, and more. It's perfect for demonstrating OOP.
 
 
 Table of Contents
